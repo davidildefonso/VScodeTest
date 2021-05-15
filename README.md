@@ -1,4 +1,3 @@
 hola mundo, 
 SOFTWARE DEVELOPER GO
-<<<<<<< HEAD
-this is from MAIN BRANCH !!
+Update info this is the most new!
